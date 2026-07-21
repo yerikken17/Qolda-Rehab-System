@@ -6,7 +6,10 @@ Smart Rehabilitation Glove &amp; AI Web Ecosystem for Hand Motor Recovery
 
 🌐 **[ПОПРОБОВАТЬ ВЕБ-ПЛАТФОРМУ](https://qolda.onrender.com/)** 
 🎥 **[СМОТРЕТЬ ПОЛНОЕ ВИДЕО РАБОТЫ НА YOUTUBE](https://www.youtube.com/watch?v=Zy11WWYYqtE)**
+
+
 ![Перчаткa 3D](./docs/ezgif-2a0c52d1751922d0.gif)
+
 
 ---
 
